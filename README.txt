@@ -2,7 +2,7 @@
 
 - Download docker
 - Run docker locally
-- Pull application for git run it via docker compose
+- Pull application from git, run it via docker compose
 
 
 
